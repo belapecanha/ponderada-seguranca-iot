@@ -1,14 +1,8 @@
 # Inteli - Instituto de Tecnologia e Liderança 
 
-<p align="center">
-<a href= "https://www.inteli.edu.br/"><img src="assets/inteli.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width=40% height=40%></a>
-</p>
-
-<br>
-
 # Barbegazi
 
-## Ponderada de programação - Visão Geral sobre Segurança em IoT (Atividade Ponderada em Sala)
+## Visão Geral sobre Segurança em IoT (Atividade Ponderada em Sala)
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/alessandra-ns-sena?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Alessandra Nascimento Santos Sena</a>
@@ -23,3 +17,13 @@
 
 - <a href="https://www.linkedin.com/in/andregodoichiovato/">André Godoi Chiovato</a>
 
+## Contribuição Individual
+| Integrante | Contrivuição |
+|---------|----------|
+| Alessandra Sena | Desenvolvimento da parte física. |
+| Luana Lima | Análise e implementação do código. |
+| Mariana Pereira | Tabela dos riscos e vulnerabilidades e README.md.|
+| Isabela Peçanha | Formatação em Markdown e transferência de dados para o github. |
+| Sarah Araujo | Detalhamento escrito das vulnerabilidades identificadas no projeto. |
+| Paulo Vitor Almeida | Análise e revisão dos riscos. |
+| Luiz Hinuy | Apresentação. |
