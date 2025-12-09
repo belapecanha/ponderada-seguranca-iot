@@ -34,7 +34,7 @@ Outro ponto a acrescentar é a falta da utilização da biblioteca que permite a
             }
 ```
 
-<img src="assests/imagem1.png">
+<img src="../assets/imagem1.png">
 
 - Ausência de autenticação: o site não conta com nenhum meio de autenticação, facilitando o acesso de terceiros não autorizados pelo sistemas.
 
@@ -48,7 +48,7 @@ Outro ponto a acrescentar é a falta da utilização da biblioteca que permite a
 
 
 ## Projeto físico
-<img src="assests/projeto-fisico.jpg">
+<img src="../assets/projeto-fisico.jpg">
 
 
 
