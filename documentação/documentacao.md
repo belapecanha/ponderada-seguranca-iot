@@ -48,7 +48,7 @@ Outro ponto a acrescentar é a falta da utilização da biblioteca que permite a
 
 
 ## Projeto físico
-<img src="../assets/projeto-fisico.jpg">
+<img src="../assets/prototipo-fisico.jpg">
 
 
 
