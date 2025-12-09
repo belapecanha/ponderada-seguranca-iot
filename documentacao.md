@@ -4,6 +4,7 @@
 ## Análise de vulnerabilidades do projeto: 
 
 - **Criptografia**: o site utiliza HTTP ao invés de HTTPS, indicando a ausência de criptografia de dados para o usuário. Trecho de código em que isso aparece: 
+
 ```
 WiFiServer server(80); //A porta 80 é padrão do HTTP.
 ```
@@ -33,6 +34,7 @@ Outro ponto a acrescentar é a falta da utilização da biblioteca que permite a
             }
 ```
 
+<img src="assests/imagem1.png">
 
 - Ausência de autenticação: o site não conta com nenhum meio de autenticação, facilitando o acesso de terceiros não autorizados pelo sistemas.
 
@@ -45,6 +47,8 @@ Outro ponto a acrescentar é a falta da utilização da biblioteca que permite a
 | Autenticação fraca             | Alto impacto                           | O site em questão não conta com nenhum tipo de autenticação, logo é fácil ter acesso não autorizado ao sistema. |
 
 
+## Projeto físico
+<img src="assests/projeto-fisico.jpg">
 
 
 
